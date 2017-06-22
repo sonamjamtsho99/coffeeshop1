@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+table {
+	border-collapse: collapse;
+	border: 1px solid #000000;
+}
+
+th {
+	text-align: left;
+	background: none repeat scroll 0 0 #B5B5B5;
+	padding: 2px;
+	border: 1px solid #000000;
+}
+
+tr {
+	text-align: left;
+	background: none repeat scroll 0 0 #FFFFFFF;
+	border: 1px solid #000000;
+}
+
